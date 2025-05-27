@@ -2,6 +2,6 @@
 
 Proyecto e innovacion a realizar.
 
-P3.- Diagnostico de anomalias pulmonares pediatricas.
+P3.- Diagnostico de anomalias pulmonares pediatricas.PneumoniaMNIST
 
 I3.- Uso de mezcla de Expertos.
